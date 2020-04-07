@@ -1,6 +1,6 @@
 # 目录
 
-- [第一章 总论](第一章总论.md)
+- [第一章 总论](第一章\s总论.md)
 - [第二章 财务管理基础](https://github.com/chenlifeng283/zhongJi/raw/master/caiwuguanli/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E5%9F%BA%E7%A1%80.md)
 - []()
 - []()
